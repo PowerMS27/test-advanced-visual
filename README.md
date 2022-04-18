@@ -8,3 +8,4 @@ npm install
 ```
 gulp
 ```
+(Wait for the images to be uploaded...)
