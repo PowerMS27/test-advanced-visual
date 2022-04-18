@@ -8,4 +8,4 @@ npm install
 ```
 gulp
 ```
-(Wait for the images to be uploaded...)
+(Wait for the images to be uploaded and refresh the page)
